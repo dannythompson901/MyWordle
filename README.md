@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# MyWordle
+A Clone of the Game Wordle!
+In this project I am using React and Tailwind. The goal is to create this game that will be responsive on all screens as well as adding some logic to process guesses.
+![image](https://user-images.githubusercontent.com/39189903/150844100-c86b3fc5-3665-4089-ad02-27f0d1dd463e.png)
+>>>>>>> 243e8b7e6f102f93b2b2ea72702f8a4543d08c07
